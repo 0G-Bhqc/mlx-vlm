@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - codex/gemma4-ci-validation
   # Stacked PRs also target feature branches.
   pull_request:
 
